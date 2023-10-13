@@ -1,2 +1,2 @@
 # html.porfolio
-My Porfolio using HTML 
+My Porfolio using only HTML 
