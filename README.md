@@ -7,4 +7,8 @@ implementation with National and International stakeholders, system administrato
 
 
 
-![Uploading Capture.PNG…]()
+
+# My Project 
+1. Rolling Dice Game.
+![Capture](https://github.com/user-attachments/assets/3e24aac2-3d11-4f31-9b7e-5c2d71dae4ad)
+
