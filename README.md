@@ -12,7 +12,7 @@ Health Laboratory and five others referral hospitals in Baucau, Maubisse,Maliana
 <p>Other essential role involves coordinating software implementation with National and International stakeholders, system administrator, server administrator and end user support and training for laboratory data management
   </p>
 
-## 🌐 Socials:
+## 🌐 Social Media
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FaustoAgau)<br/> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fausto_agau) <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FaustoCarlosFilipedaSilva) <br/>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10894568)<br/> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faustodasilva16@gmail.com) 
 
 
