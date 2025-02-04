@@ -30,7 +30,7 @@ Health Laboratory and five others referral hospitals in Baucau, Maubisse,Maliana
 # My Project 
 * Python Rolling Dice Game.
 ##### Using Object Oriented Programing (OOP) concepts.
-   
+##### Project link (https://github.com/FaustoAgau68/Python-Project/blob/main/dice_rolling_game.py)
 ![Capture](https://github.com/user-attachments/assets/3e24aac2-3d11-4f31-9b7e-5c2d71dae4ad)
 
 * Python File Manager
