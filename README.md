@@ -57,3 +57,7 @@ Health Laboratory and five others referral hospitals in Baucau, Maubisse,Maliana
 ---
 [![](https://visitcount.itsvg.in/api?id=FaustoAgau68&icon=0&color=0)](https://visitcount.itsvg.in)
 
+---
+
+### 📌 Footer  
+© 2024 Fausto Carlos Filipe da Silva | Hosted on [GitHub Pages](https://pages.github.com/)
