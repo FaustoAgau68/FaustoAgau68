@@ -9,7 +9,7 @@ Currently, work as a Digital Health Technical Coordinator for the Menzies School
 Health Laboratory and five others referral hospitals in Baucau, Maubisse,Maliana,Suai and Oecussi. Other essential role involves coordinating software implementation with National and International stakeholders, system administrator, server administrator and end user support and training for laboratory data management
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fausto Agau) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Fausto Agau) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fausto Carlos Filipe da Silva) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10894568) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faustodasilva16@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/FaustoAgau)<br/> [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/FaustoAgau) <br/>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FaustoCarlosFilipedaSilva) <br/>[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10894568)<br/> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faustodasilva16@gmail.com) 
 
 
 ## 🎓 Education
@@ -22,34 +22,34 @@ Health Laboratory and five others referral hospitals in Baucau, Maubisse,Maliana
 ### Digital Health Technical Coordinator | Menzies School of Health Research
 📅 **Jully 2024 - Present**  
 🔹 Evaluate and Monitor laboratory software, System Administrator, and security policies.  
-🔹 Evaluate and recommend new technology, tools, and solutions to improve efficiency and productivity in Laboratory System.
-🔹 Collaborate with others IT stakeholder from local and international to address IT needs on implementing software system.
-🔹 Documenting the Software system, configurations, and procedures for knowledge sharing and training.
-🔹 Plan and execute IT infratructure and Software projects, including upgrades, mitigations, and instalations.
+🔹 Evaluate and recommend new technology, tools, and solutions to improve efficiency and productivity in Laboratory System.<br/>
+🔹 Collaborate with others IT stakeholder from local and international to address IT needs on implementing software system.<br/>
+🔹 Documenting the Software system, configurations, and procedures for knowledge sharing and training.<br/>
+🔹 Plan and execute IT infratructure and Software projects, including upgrades, mitigations, and instalations.<br/>
 
 ### IT Officer | Menzies School of Health Research
 📅 **June 2022 - Jully 2024**  
- 🔹 Install, configure, and maintain computer hardware, software and network.
- 🔹 Troubleshoot hardware and software issues, including desktops, laptops printers and servers.
- 🔹 Menzies Local Area Network Administrator.
- 🔹 Provide technical support to staff, including troubleshooting and resolving IT-related challenges.
- 🔹 Ensure security of IT systems, software patching, data back up antivirus protection, and user access control.
- 🔹 Manage and monitor network infrastructure, including routers, switches, firewalls, and VPNs both at National Health Laboratory and Menzies.
+ 🔹 Install, configure, and maintain computer hardware, software and network.<br/>
+ 🔹 Troubleshoot hardware and software issues, including desktops, laptops printers and servers.<br/>
+ 🔹 Menzies Local Area Network Administrator.<br/>
+ 🔹 Provide technical support to staff, including troubleshooting and resolving IT-related challenges.<br/>
+ 🔹 Ensure security of IT systems, software patching, data back up antivirus protection, and user access control.<br/>
+ 🔹 Manage and monitor network infrastructure, including routers, switches, firewalls, and VPNs both at National Health Laboratory and Menzies.<br/>
 
 
 ### 🛠️ Intern | Telkomcel Timor-Leste  
-📅 **September 2019 (2 Months)** 
-🔹 Maintenance Base Transceiver Station and Cellular Network.
-🔹 Distribution Fiber Optic to customers.
-🔹 Quality control of customer network.
-🔹 Maintenance OLT (Optical Line Terminal) and Data center.
+📅 **September 2019 (2 Months)** <br/>
+🔹 Maintenance Base Transceiver Station and Cellular Network.<br/>
+🔹 Distribution Fiber Optic to customers.<br/>
+🔹 Quality control of customer network.<br/>
+🔹 Maintenance OLT (Optical Line Terminal) and Data center.<br/>
 
 
 # My Project 
 * Python Rolling Dice Game.
 ##### Using Object Oriented Programing (OOP) concepts.
 ##### [Click here to view the project code](https://github.com/FaustoAgau68/Python-Project/blob/main/dice_rolling_game.py)
-![Capture](https://github.com/user-attachments/assets/3e24aac2-3d11-4f31-9b7e-5c2d71dae4ad)
+![Project Screenshoot](https://github.com/user-attachments/assets/3e24aac2-3d11-4f31-9b7e-5c2d71dae4ad)
 
 * Python File Manager
 ##### Using Object Oriented Programing (OOP) concepts and Python GUI modul.
